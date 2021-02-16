@@ -1,9 +1,3 @@
-# URL
- [http://a2046de6a51d54f1fa4c0c57e8f221b0-612256863.us-west-2.elb.amazonaws.com](http://a2046de6a51d54f1fa4c0c57e8f221b0-612256863.us-west-2.elb.amazonaws.com) 
-
-# CLUSTER IP
-10.100.238.152
-
 # Deploying a Flask API
 
 This is the project starter repo for the fourth course in the [Udacity Full Stack Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004): Server Deployment, Containerization, and Testing.
